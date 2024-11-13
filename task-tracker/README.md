@@ -21,7 +21,7 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/task-cli.git
+   git clone https://github.com/curtisluu-66/simple-projects.git
    cd task-cli
    ```
 
