@@ -1,0 +1,23 @@
+{
+  "name": "github-activity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dummy",
+    "beginner",
+    "starter",
+    "bootcamp"
+  ],
+  "author": "Curtis Luu",
+  "license": "ISC",
+  "description": "Roadmap.sh challenges",
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "eslint": "^9.15.0",
+    "globals": "^15.12.0"
+  }
+}
